@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Mind maps
+mapas_mentales/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
