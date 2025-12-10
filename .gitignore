@@ -1,7 +1,6 @@
 # Virtual environments
-.venv/
-venv/
-env/
+*.venv/
+*venv/
 
 # Mind maps
 mapas_mentales/
@@ -14,3 +13,5 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+
+datasets/genia_services_csv_german_credit_risk_v1.0.0_training_20250824
